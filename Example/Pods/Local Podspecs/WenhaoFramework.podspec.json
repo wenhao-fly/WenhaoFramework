@@ -1,6 +1,6 @@
 {
   "name": "WenhaoFramework",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "AshordescriptiooWenhaoFramework.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/wenhao-fly/WenhaoFramework",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/wenhao-fly/WenhaoFramework.git",
-    "tag": "0.0.2"
+    "tag": "0.0.3"
   },
   "platforms": {
     "ios": "9.0"

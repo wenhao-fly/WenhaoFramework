@@ -1,5 +1,5 @@
 PODS:
-  - WenhaoFramework (0.0.2)
+  - WenhaoFramework (0.0.3)
 
 DEPENDENCIES:
   - WenhaoFramework (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  WenhaoFramework: 1561a71d85d51edc0e4112d732eab2110b1828e9
+  WenhaoFramework: e49b2476d29f472723fcb62047455c74a7d4e29a
 
 PODFILE CHECKSUM: 39ddec1b02f9abdbc0f3f73f796d7ff611bdfea2
 
