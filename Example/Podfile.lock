@@ -1,0 +1,16 @@
+PODS:
+  - WenhaoFramework (0.0.1)
+
+DEPENDENCIES:
+  - WenhaoFramework (from `../`)
+
+EXTERNAL SOURCES:
+  WenhaoFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WenhaoFramework: 32d5493266bd5f07f1b49da1209579b57a413ff8
+
+PODFILE CHECKSUM: 39ddec1b02f9abdbc0f3f73f796d7ff611bdfea2
+
+COCOAPODS: 1.10.1

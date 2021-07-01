@@ -1,0 +1,6 @@
+framework module WenhaoFramework {
+  umbrella header "WenhaoFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

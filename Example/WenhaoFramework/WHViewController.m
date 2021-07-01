@@ -7,6 +7,7 @@
 //
 
 #import "WHViewController.h"
+#import <WenhaoFramework/WenhaoFramework.h>
 
 @interface WHViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [WenhaoTest wenhaoTest];
 }
 
 - (void)didReceiveMemoryWarning

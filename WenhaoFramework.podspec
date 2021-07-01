@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WenhaoFramework'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of WenhaoFramework.'
+  s.version          = '0.0.1'
+  s.summary          = 'AshordescriptiooWenhaoFramework.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -30,7 +30,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'WenhaoFramework/Classes/**/*'
+  #s.source_files = 'WenhaoFramework/Classes/**/*'
+  
+  s.vendored_frameworks = 'WenhaoFramework/Classes/WenhaoFramework.framework'
   
   # s.resource_bundles = {
   #   'WenhaoFramework' => ['WenhaoFramework/Assets/*.png']
